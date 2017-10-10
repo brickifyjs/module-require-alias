@@ -16,4 +16,8 @@ var dummy = require('dummy');
 module.exports = {}
 ```
 
-### Create your alias in node_modules folder at same level or higher
+### Create your alias in node_modules folder at same level or higher node_modules/dummy.js
+```js
+module.exports = require('PATH/MODULE');
+```
+
