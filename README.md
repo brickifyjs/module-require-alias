@@ -1,6 +1,6 @@
 # Module require alias
 > Create CommonJS alias without any dependency \
-Useful when used with [Module require for browser](https://github.com/brickifyjs/module-require)
+Useful when used with [Module require for browser](https://github.com/brickifyjs/module-require) \
 Useful when used with [Module bundler](https://github.com/brickifyjs/module-bundler)
 
 ## Usage
